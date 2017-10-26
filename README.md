@@ -5,7 +5,7 @@ Product Documentation available at:
 
 # Workflow Description
 
-The workflow is a resouece action that allows you to add one or more custom attrbutes to a vm as a day 2 operation.
+The workflow is a resource action that allows you to add one or more custom attrbutes to a vm as a day 2 operation.
 
 # Workflow Type
 
